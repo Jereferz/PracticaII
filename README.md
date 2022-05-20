@@ -1,2 +1,2 @@
 # Practica Profesional Jeremias Fernandez
-Esto es una introducción.
+Archivo html con bootstrap.
